@@ -17,3 +17,7 @@ Las preguntas están orientadas a resolver problemas reales de negocio, e incluy
     - Uso de funciones SQL como CONCAT(), DATEDIFF(), COUNT(), AVG(), entre otras.
 
 Todas las consultas están contenidas dentro del archivo .sql entregado, siguiendo el orden planteado en el examen.
+
+
+<sub>Realizado por <strong>Noemi Barrios</strong><br>
+Bootcamp Data Analytics | Mayo 2025</sub>
